@@ -1,0 +1,6 @@
+cd path/to/unzipped/pokemon-tcg-sg   # Replace with actual path
+git init
+git remote add origin https://github.com/danielkan123/pokemon-tcg-sg.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
